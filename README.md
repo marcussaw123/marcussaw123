@@ -30,7 +30,7 @@
 
 
 ### Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcussaw123&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcussaw123&langs_count=8)
 
 
 
@@ -39,3 +39,9 @@
 ### Github Stats
 
 ![stats](https://github-readme-stats.vercel.app/api?username=marcussaw123&count_private=true&theme=cobalt "Github Stats")
+
+<hr />
+
+
+### Streak
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=marcussaw123&theme=cobalt)
