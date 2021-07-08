@@ -19,9 +19,7 @@
 <img align="left" alt="ts" width="26px" src="https://i.imgur.com/vSgFULR.png" />
 <img align="left" alt="py" width="26px" src="https://i.imgur.com/4pIzF9V.png" />
 <img align="left" alt="node.js" width="26px" src="https://i.imgur.com/tYLFZBh.png" /> 
-<img align="left" alt="html" width="26px" src="https://imgur.com/YB6ltnd.png">
-<img align="left" alt="css" width="26px" src="https://imgur.com/Whf6sgU.png">
-<img align="left" alt="webstorm" width="26px" src="https://imgur.com/WJ2yk2x.png">
+<img align="left" alt="html" width="26px" src="https://imgur.com/YB6ltnd.png"><br />
 
 
 
