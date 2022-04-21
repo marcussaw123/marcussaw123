@@ -1,16 +1,3 @@
-### Hi there 👋
-
-
-- 🔭 I’m currently working on an npm package.
-- 🌱 I’m currently learning **NOTHING** currently
-- 📫 How to reach me: Not currently avaliable
-- 😄 Pronouns: He/Him
-
-
-
-<hr />
-
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
