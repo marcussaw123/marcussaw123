@@ -33,5 +33,6 @@
 
 
 <hr />
-### Pets
-![pet](https://render.gitanimals.org/lines/marcussaw123)
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/marcussaw123" width="1000" height="120"/>
+</a>
