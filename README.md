@@ -14,6 +14,15 @@
 
 <hr />
 
+### Pets
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/marcussaw123" width="1000" height="120"/>
+</a>
+
+
+<hr />
+
 
 ### Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcussaw123&langs_count=8&theme=cobalt)
