@@ -11,16 +11,6 @@
 
 
 
-
-<hr />
-
-### Pets
-
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/marcussaw123" width="1000" height="120"/>
-</a>
-
-
 <hr />
 
 
@@ -40,3 +30,11 @@
 
 ### Streak
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=marcussaw123&theme=cobalt)
+
+
+<hr />
+### Pets
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/marcussaw123" width="1000" height="120"/>
+</a>
